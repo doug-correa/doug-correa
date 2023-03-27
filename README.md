@@ -27,5 +27,4 @@ Lista de projetos em Jupyter Notebook:
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 </div>
