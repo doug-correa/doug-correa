@@ -1,9 +1,13 @@
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+Four+ years of experience in the areas of data science and business intelligence working in the spheres of financial market, industry and accounting, participating in digital transformations and developing data ecosystems and solutions and B.I products, covering objects such as supply chain management, financial market risk management and accounting automation. Economics academic at the Federal University of Rio Grande do Sul. Expertise in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, REST API and web scraping. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
 * **[Avaliação de aprovação de cartão de crédito](http://encr.pw/L3kV4)** 
+
+## Dashboards em Power B.I.
+
+Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](https://sites.google.com/view/dougcorrea/)
 
 ## Qualificações técnicas
 
