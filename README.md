@@ -7,7 +7,7 @@ Lista de projetos em Jupyter Notebook:
 
 ## Qualificações técnicas
 
-### Avançado
+### Notáveis aptidões
 <div style="display: inline-block">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
@@ -30,13 +30,4 @@ Lista de projetos em Jupyter Notebook:
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-</div>
-
-### Básico
-
-<div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
 </div>
