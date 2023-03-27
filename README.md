@@ -21,7 +21,6 @@ Lista de projetos em Jupyter Notebook:
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_100.png">
