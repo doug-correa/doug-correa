@@ -12,7 +12,6 @@ Lista de projetos em Jupyter Notebook:
   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
 </div>
   
 ### Intermediário
