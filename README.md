@@ -35,5 +35,5 @@ Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](http
 
 ## Contato
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png">
+  <img align="center" height="30" width="40" padding="0 3 0 3" alt="nodejs-icon" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png">
 </div>
