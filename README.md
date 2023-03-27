@@ -39,7 +39,7 @@ Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](http
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://www.nicepng.com/ourpic/u2t4i1e6a9w7e6y3_github-icon-white-png">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://icon-library.com/icon/github-icon-white-5.html.html">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
