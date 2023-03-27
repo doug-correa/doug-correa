@@ -57,6 +57,6 @@ Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](http
     <img align="center" height="30" width="30" alt="nodejs-icon" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png">
   </a>
   <a href="https://www.linkedin.com/in/dougpcorrea/">
-    <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+    <img align="center" height="30" width="30" style="border-left: 10px" alt="nodejs-icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a>
 </div>
