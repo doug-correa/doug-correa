@@ -1,15 +1,15 @@
 Four+ years of experience in the areas of data science and business intelligence working in the spheres of financial market, industry and accounting, participating in digital transformations and developing data ecosystems and solutions and B.I products, covering objects such as supply chain management, financial market risk management and accounting automation. Economics academic at the Federal University of Rio Grande do Sul. Expertise in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, REST API and web scraping. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
 
 ## Projects:
-Lista de projetos em Jupyter Notebook:
+List of projects in Jupyter Notebook:
 
-* **[Avaliação de aprovação de cartão de crédito](http://encr.pw/L3kV4)** 
+* **[Avaliação de aprovação de cartão de crédito (PT-BR)](http://encr.pw/L3kV4)** 
 
-## Dashboards em Power B.I.
+## Power B.I. dashboards
 
-Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](https://sites.google.com/view/dougcorrea/)
+To visualize the dashboards that I develop in Power B.I. click [here](https://sites.google.com/view/dougcorrea/)
 
-## Qualificações técnicas
+## Technical qualifications
 
 ### Advanced
 <div style="display: inline-block">
@@ -51,7 +51,7 @@ Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](http
   <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_qlikview_icon_130217.png">
 </div>
 
-## Contato
+## Contact
 <div style="display: inline-block">
   <a href="https://wa.me/5551984925343">
     <img align="center" height="30" width="30" alt="nodejs-icon" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png">
