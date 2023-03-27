@@ -43,10 +43,10 @@ Para visualizar os dashboards que eu desenvolvo em Power B.I. clique [aqui](http
 </div>
 
 ### Básico
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<div style="display: inline-block">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_qlikview_icon_130217.png">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_qlikview_icon_130217.png">
 </div>
 
 ## Contato
