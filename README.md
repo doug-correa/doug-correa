@@ -3,7 +3,7 @@ Four+ years of experience in the areas of data science and business intelligence
 ## Projects:
 List of projects in Jupyter Notebook:
 
-* **[Avaliação de aprovação de cartão de crédito (PT-BR)](http://encr.pw/L3kV4)** 
+* **[Avaliação de aprovação de cartão de crédito com Machine Learning(PT-BR)](http://encr.pw/L3kV4)** 
 
 ## Power B.I. dashboards
 
