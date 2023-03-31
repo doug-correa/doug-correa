@@ -27,7 +27,6 @@ To visualize the dashboards that I develop in Power B.I. click [here](https://si
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
   <img align="center" height="30" width="30" alt="nodejs-icon" src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_100.png">
 </div>
 <br>
