@@ -2,11 +2,13 @@ Four+ years of experience in the areas of data science and business intelligence
 
 ## Data Science and Machine Learning projects:
 
-* **[Avaliação de aprovação de cartão de crédito com Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+* **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+* **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
-## Power B.I. dashboards
+## Other projects
 
-To visualize the dashboards that I develop in Power B.I. click [here](https://sites.google.com/view/dougcorrea/)
+[My Power B.I dashboard projects](https://sites.google.com/view/dougcorrea/)
+[Articles that I write on Medium](https://medium.com/@dougcorrea)
 
 ## Technical qualifications
 
