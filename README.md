@@ -8,6 +8,7 @@ Four+ years of experience in the areas of data science and business intelligence
 ## Other projects
 
 [My Power B.I dashboard projects](https://sites.google.com/view/dougcorrea/)
+<br>
 [Articles that I write on Medium](https://medium.com/@dougcorrea)
 
 ## Technical qualifications
