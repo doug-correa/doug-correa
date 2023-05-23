@@ -1,9 +1,10 @@
 Four+ years of experience in the areas of data science and business intelligence working in the spheres of financial market, industry and accounting, participating in digital transformations and developing data ecosystems and solutions and B.I products, covering objects such as supply chain management, financial market risk management and accounting automation. Economics academic at the Federal University of Rio Grande do Sul. Expertise in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, REST API and web scraping. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
 
-## Data Science and Machine Learning projects:
+## My main public Data Science, Machine Learning and Software Engineering projects:
 
 * **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 * **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+* **[Smart to do list web application](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
 ## Other projects
 
