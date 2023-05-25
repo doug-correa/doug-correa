@@ -36,8 +36,6 @@ Over four years of experience in data science and software engineering. Engageme
 
 ### Basics
 <div style="display: inline-block">
-
-  <img align="center" src="">
   <img align="center" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=whit">
   <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
