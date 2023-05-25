@@ -21,7 +21,7 @@ Over four years of experience in data science and software engineering. Engageme
   <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   
 ### Intermediate
-<div style="margin-bottom: 50px;"> 
+<div style="margin-bottom: 500px;"> 
   <img align="center" style="margin-bottom: 50px" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
