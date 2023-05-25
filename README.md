@@ -6,11 +6,6 @@ Over four years of experience in business intelligence, data science and softwar
 * **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
 * **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
-## Other projects
-
-* [My Power B.I dashboard projects](https://sites.google.com/view/dougcorrea/)
-* [Articles that I write on Medium](https://medium.com/@dougcorrea)
-
 ## Technical qualifications
 
 ### Advanced
