@@ -22,13 +22,13 @@ Over four years of experience in data science and software engineering. Engageme
   
 ### Intermediate
 <div style="display: inline-block"> 
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
+  <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img align="center" src="">
+  <img align="center" src="">
+  <img align="center" src="">
   
   
 
