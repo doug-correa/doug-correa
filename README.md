@@ -14,7 +14,7 @@ Over four years of experience in business intelligence, data science and softwar
 ## Technical qualifications
 
 <p align="center">
-  <img src="https://github.com/dougpcorrea/software_engineering/blob/main/1.%20Smart%20to%20do%20list/images/_tasks.png", width="128px">
+  <img src="https://github.com/dougpcorrea/software_engineering/blob/main/1.%20Smart%20to%20do%20list/images/_tasks.png", width="240px">
 </p>
 
 ### Advanced
