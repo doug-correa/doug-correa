@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter"/>
 </a>
     
-Hello! I'm Douglas, a deeply passionate data scientist and software engineer from Brazil. Currently involved in open-source projects for personal development and real estate market research while seeking for opportunities aligned with my values that allows me to reach my full potential.
+Hello! I'm Douglas, a deeply passionate data scientist and software engineer hailing from Brazil. Currently involved in open-source projects for personal development and real estate market research while seeking opportunities that align with my values and enable me to reach my full potential.
 
 ## My main open source projects
 
