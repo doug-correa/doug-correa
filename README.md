@@ -1,12 +1,12 @@
-Over four years of experience in business intelligence, data science and software engineering. Engagement in digital transformations, development of data solutions, data ecosystems and B.I. products covering areas such as financial market risk management, accounting automation, customer relationship management and supply chain management. Economics degree at the Federal University of Rio Grande do Sul. Specialty in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, web scraping, web development and REST API. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
+Over four years of experience in data science and software engineering. Engagement in digital transformations, development of data solutions, data ecosystems and B.I. products covering areas such as financial market risk management, accounting automation, customer relationship management and supply chain management. Economics degree at the Federal University of Rio Grande do Sul. Specialty in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, web scraping, web development and REST API. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
 
-## Data Science, Machine Learning and Software Engineering projects:
+## Main Public Projects
 
 * **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 * **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
 * **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
-## Technical qualifications
+## Technical Qualification
 
 ### Advanced
 <div style="display: inline-block">
