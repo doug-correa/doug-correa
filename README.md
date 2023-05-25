@@ -18,21 +18,20 @@ Over four years of experience in data science and software engineering. Engageme
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  
 </div>
   
 ### Intermediate
-<div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://github.com/apache/airflow/blob/main/airflow/www/static/pin_100.png">
-</div>
-<br>
-<div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+<div style="display: inline-block"> 
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
+  <img align="center" height="30" width="30" alt="nodejs-icon" src="">
+  
+  
+
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
@@ -44,6 +43,7 @@ Over four years of experience in data science and software engineering. Engageme
 
 ### Basics
 <div style="display: inline-block">
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" height="30" width="30" alt="nodejs-icon" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_qlikview_icon_130217.png">
