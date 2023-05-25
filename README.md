@@ -11,7 +11,7 @@
     
 Hello! I'm Douglas, a deeply passionate data scientist and software engineer hailing from Brazil. Currently involved in open-source projects for personal development and real estate market research while seeking opportunities that align with my values and enable me to reach my full potential.
 
-## My main open source projects
+## My main open-source projects
 
 * 💳 **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 * 📝 **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
