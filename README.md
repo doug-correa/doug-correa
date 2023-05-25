@@ -10,7 +10,7 @@ Over four years of experience in business intelligence, data science and softwar
 
 ### Advanced
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="js-icon" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" height="30" width="40" alt="react-icon" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg">
 </div>
