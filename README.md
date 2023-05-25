@@ -1,4 +1,4 @@
-Over four years of experience in data science and software engineering. Engagement in digital transformations, development of data solutions, data ecosystems and B.I. products covering areas such as financial market risk management, accounting automation, customer relationship management and supply chain management. Economics degree at the Federal University of Rio Grande do Sul. Specialty in data modeling, data mining, machine learning engineering and modeling, relational and non-relational databases, statistical modeling, web scraping, web development and REST API. Remarkable skills in Python, SQL, Power B.I. and Excel. Fluent English. Self-taught, agile learning, communicative, optimistic, proactive and flexible profile.
+
 
 ## Main Public Projects
 
