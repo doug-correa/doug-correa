@@ -15,7 +15,7 @@ Hello! I'm Douglas, a deeply passionate data scientist and software engineer hai
 
 * 💳 **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 * 📝 **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
-* 🏠 **[House Price Prediction in Porto Alegre with Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+* 🏠 **[Real State Price Prediction in Porto Alegre with Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
 ## Technical qualification
 
