@@ -2,9 +2,9 @@ Over four years of experience in data science and software engineering. Engageme
 
 ## Main Public Projects
 
-* **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
-* **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
-* **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+💳 **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
+📝 **[Smart To-Do List Web Application](https://github.com/dougpcorrea/software_engineering/tree/main/1.%20Smart%20to%20do%20list)** 
+🏠 **[House Price Prediction in Porto Alegre Using Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
 ## Technical Qualification
 
