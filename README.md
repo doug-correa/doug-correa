@@ -8,6 +8,8 @@
 <a href="">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter"/>
 </a>
+    
+Hello! I'm Douglas from Brazil, passionate about Data Science and Software Engineering. Currently involved in open-source projects for personal development and real estate market research while seeking for a opportunity aligned with my values and that allows me to reach my full potential.
 
 ## My main open source projects
 
