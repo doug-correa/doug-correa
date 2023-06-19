@@ -16,7 +16,6 @@ Hello! I'm Douglas, a deeply passionate data scientist and software engineer hai
 * 🚀 **[Life Planner: A centralized hub for personal development](https://github.com/dougpcorrea/the_project) ⭐** 
 * 📚 **[Book recomendation collaborative filtering](https://github.com/dougpcorrea/data_science/tree/main/2.%20Books%20recomendation%20collaborative%20filtering)**
 * 💳 **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
-* 🏠 **[Real State Price Prediction in Porto Alegre with Machine Learning](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)** 
 
 ## Technical qualification
 
