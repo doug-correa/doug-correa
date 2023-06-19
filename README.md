@@ -11,7 +11,7 @@
     
 Hello! I'm Douglas, a deeply passionate data scientist and software engineer hailing from Brazil. Currently involved in open-source projects for personal development and real estate market research while seeking opportunities that align with my values and enable me to reach my full potential.
 
-## My main open-source projects
+## My latest open-source projects
 
 * 🚀 **[Life Planner: A centralized hub for personal development](https://github.com/dougpcorrea/the_project) ⭐** 
 * 📚 **[Book recomendation collaborative filtering](https://github.com/dougpcorrea/data_science/tree/main/2.%20Books%20recomendation%20collaborative%20filtering)**
