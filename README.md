@@ -13,7 +13,7 @@ Hello! I'm Douglas, a deeply passionate data scientist hailing from Brazil. Curr
 
 ## My latest public projects
 
-* 🔄 **[Product Lifecycle Prediction With Advanced Statistical Models](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)**
+* 🔄 **[Product Lifecycle Prediction With Advanced Statistical Models](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating) ⭐🔥**
 * 💳 **[Credit Cart Aproval Rating with Machine Learning (PT-BR)](https://github.com/dougpcorrea/data_science/tree/main/1.%20Credit%20card%20aproval%20rating)**
 * 📚 **[Book recomendation collaborative filtering](https://github.com/dougpcorrea/data_science/tree/main/2.%20Books%20recomendation%20collaborative%20filtering)**
 * 🚀 **[Life Planner: A centralized hub for personal development](https://github.com/dougpcorrea/the_project) ⭐** 
